@@ -1,6 +1,6 @@
 # Hi there, I'm Dean  👋
 
-## I'm a Software Engineering Intern, Student, and Tennis Player!!
+## I'm a Software Engineering Intern, Student, and Tennis Player!
 
 - 🔭 I’m currently interning at Apple under the Camera & Photos group.
 - 🌱 I’m currently working towards a Bachelor's degree in Computer Science (Artificial Intelligence track) at Stanford.
@@ -13,9 +13,6 @@
 
 [<img align="left" alt="codeSTACKr.com" width="26px" style="padding: 5px;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="26px" style="padding: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-<br />
 
 ## Languages and Tools:
 
