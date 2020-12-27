@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently interning at Apple under the Camera & Photos group.
 - 🌱 I’m working towards a Bachelor's degree in Computer Science (Artificial Intelligence track) at Stanford.
-- 🥅 2020 Goals: Leverage more cloud computing platforms such as AWS, GCP, and Azure.
+- 🥅 2021 Goals: Leverage more cloud computing platforms such as AWS, GCP, and Azure.
 - 💬 Ask me about: My face mask detection computer vision project.
 - 📫 How to reach me: [dstratak@stanford.edu][email].
 - ⚡ Fun fact: I learned to use the abacus for ten years and can multiply 3 digit numbers together in my head.
