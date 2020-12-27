@@ -18,7 +18,7 @@
 
 ## Languages and Tools:
 
-##### Programming Languages
+#### Programming Languages
 
 <div>
   <img alt="Python" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -33,7 +33,7 @@
   <img alt="LaTeX" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
 </div>
 
-##### Tools
+#### Tools
 
 <div>
   <img alt="TensorFlow" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
@@ -44,7 +44,7 @@
   <img  alt="MongoDB" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </div>
 
-##### Utilities
+#### Utilities
 
 <div>
   <img  alt="Visual Studio Code" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
