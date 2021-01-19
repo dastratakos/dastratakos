@@ -59,6 +59,10 @@
   <img  alt="Android" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 </div>
 
+## Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dastratakos&theme=vue)
+
 [email]: mailto:dstratak@stanford.edu
 [website]: https://dastratakos.github.io
 [linkedin]: https://www.linkedin.com/in/dean-stratakos-8b338b149/
