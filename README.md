@@ -59,10 +59,10 @@
   <img  alt="Android" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 </div>
 
-## Stats
+## More:
 
 <a href="https://github-readme-stats.vercel.app/api?username=dastratakos&show_icons=true&include_all_commits=true&theme=vue">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dastratakos&show_icons=true&include_all_commits=true&theme=vue" alt="Dean's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dastratakos&show_icons=true&include_all_commits=true&theme=vue&count_private=true" alt="Dean's GitHub stats" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dastratakos&layout=compact&theme=vue">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dastratakos&layout=compact&theme=vue&exclude_repo=Python-Tutorial,Ethan-Carroll-Portfolio&langs_count=10" alt="Dean's top languages" />
