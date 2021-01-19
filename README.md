@@ -61,7 +61,12 @@
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dastratakos&theme=vue)
+<a href="https://github-readme-stats.vercel.app/api?username=dastratakos&show_icons=true&include_all_commits=true&theme=vue">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dastratakos&show_icons=true&include_all_commits=true&theme=vue" alt="Dean's GitHub stats" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dastratakos&layout=compact&theme=vue">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dastratakos&layout=compact&theme=vue" alt="Dean's top languages" />
+</a>
 
 [email]: mailto:dstratak@stanford.edu
 [website]: https://dastratakos.github.io
