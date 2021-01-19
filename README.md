@@ -65,7 +65,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dastratakos&show_icons=true&include_all_commits=true&theme=vue" alt="Dean's GitHub stats" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dastratakos&layout=compact&theme=vue">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dastratakos&layout=compact&theme=vue" alt="Dean's top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dastratakos&layout=compact&theme=vue&exclude_repo=Python-Tutorial,Ethan-Carroll-Portfolio&langs_count=10" alt="Dean's top languages" />
 </a>
 
 [email]: mailto:dstratak@stanford.edu
