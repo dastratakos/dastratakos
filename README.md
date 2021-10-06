@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineering Intern, Student, and Tennis Player!
 
-- 🔭 This past fall, I interned at Apple under the Camera & Photos group.
+- 🔭 In the fall of 2020, I interned at Apple under the Camera & Photos group.
 - 🌱 I’m working towards a Bachelor's degree in Computer Science (Artificial Intelligence track) at Stanford.
 - 🥅 2021 Goals: Leverage more cloud computing platforms such as AWS, GCP, and Azure.
 - 💬 Ask me about: My face mask detection computer vision project.
