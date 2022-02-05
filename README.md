@@ -1,11 +1,8 @@
 # Hi there, I'm Dean  👋
 
-## I'm a Software Engineering Intern, Student, and Tennis Player!
+## I'm a Software Engineer, Student, and Tennis Player!
 
-- 🔭 In the fall of 2020, I interned at Apple under the Camera & Photos group.
-- 🌱 I’m working towards a Bachelor's degree in Computer Science (Artificial Intelligence track) at Stanford.
-- 🥅 2021 Goals: Leverage more cloud computing platforms such as AWS, GCP, and Azure.
-- 💬 Ask me about: My face mask detection computer vision project.
+- 🌱 I’m working towards both a Master's and Bachelor's degree in Computer Science (Artificial Intelligence and Computer Systems tracks, respectively) at Stanford.
 - 📫 How to reach me: [dstratak@stanford.edu][email].
 - ⚡ Fun fact: I learned to use the abacus for ten years and can multiply 3 digit numbers together in my head.
 
