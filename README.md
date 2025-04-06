@@ -1,14 +1,10 @@
 # Hi there, I'm Dean  👋
 
-## I'm a Software Engineer, Student, and Tennis Player!
-
-- 🌱 I’m working towards both a Master's and Bachelor's degree in Computer Science (Artificial Intelligence and Computer Systems tracks, respectively) at Stanford.
-- 📫 How to reach me: [dstratak@stanford.edu][email].
+- 📫 How to reach me: [dastratakos@gmail.com][email].
 - ⚡ Fun fact: I learned to use the abacus for ten years and can multiply 3 digit numbers together in my head.
 
 ## Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank"/>][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="26px" style="margin: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />][linkedin]
 
 <br />
@@ -45,8 +41,7 @@
 
 <div>
   <img  alt="Visual Studio Code" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <!-- <img  alt="Xcode" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/
-  github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" /> -->
+  <img  alt="Xcode" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
   <img  alt="Git" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img  alt="GitHub" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   <img  alt="Terminal" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -56,6 +51,7 @@
   <img  alt="Android" width="26px" style="margin: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 </div>
 
+<!--
 ## More:
 
 <a href="https://github-readme-stats.vercel.app/api?username=dastratakos&show_icons=true&include_all_commits=true&theme=vue">
@@ -64,7 +60,7 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dastratakos&layout=compact&theme=vue">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dastratakos&layout=compact&theme=vue&exclude_repo=Python-Tutorial,Ethan-Carroll-Portfolio&langs_count=10" alt="Dean's top languages" />
 </a>
+-->
 
-[email]: mailto:dstratak@stanford.edu
-[website]: https://dastratakos.github.io
+[email]: mailto:dastratakos@gmail.com
 [linkedin]: https://www.linkedin.com/in/dean-stratakos-8b338b149/
